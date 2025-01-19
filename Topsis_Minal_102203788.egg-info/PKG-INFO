@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Topsis-Minal-102203788
+Version: 0.1
+Summary: A Python package to implement the Topsis method for decision-making
+Home-page: https://github.com/minal2577/Topsis-Minal-102203788
+Author: Minal
+Author-email: mminal_be22@thapar.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: sys
+
+# Topsis-Minal102203788
+ 
